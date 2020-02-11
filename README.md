@@ -1,4 +1,5 @@
 Data Migration Scripts
+
 HDFS data and Hive Database transfer automation between two  clusters Primary and DR scenario 
 
 Synopsis:
